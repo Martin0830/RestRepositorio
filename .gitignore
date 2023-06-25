@@ -30,4 +30,7 @@ build/
 .vscode/
 
 # Project exclude paths
+<<<<<<< HEAD
 /target/
+=======
+>>>>>>> d6201af (commit)
